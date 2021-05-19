@@ -6,6 +6,7 @@
 ### 🔭 I’m currently working at:
 
 * [Ura Design](https://github.com/uracreative): Digital studio which focuses on visual communication solutions tailored for Open Source and Internet Freedom projects
+* [Tahoe-LAFS](https://github.com/tahoe-lafs/): Tahoe-LAFS is a Free and Open decentralized cloud storage system which distributes your data across multiple servers
 
 **Continuously learning new things every day 📕...**
 
