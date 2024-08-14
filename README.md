@@ -6,9 +6,9 @@
 ### 🔭 I’m currently working at:
 
 * [Ura Design](https://github.com/uradotdesign): Digital studio which focuses on visual communication solutions tailored for Open Source and Internet Freedom projects
-* [Magoware](https://www.magoware.tv): A Software Company specialized in Video Content Management & Distribution Solutions through internet (IPTV/OTT) for different ecosystem actors & Paid TV operators
 
 ### Past positions
+* [Magoware](https://www.magoware.tv): A Software Company specialized in Video Content Management & Distribution Solutions through internet (IPTV/OTT) for different ecosystem actors & Paid TV operators
 * [Tahoe-LAFS](https://github.com/tahoe-lafs/): Tahoe-LAFS is a Free and Open decentralized cloud storage system which distributes your data across multiple servers
 
 **Continuously learning new things every day 📕...**
