@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anxhelolushka)
 
 ### 🔭 I’m currently working at:
-
+* [GlobaLeaks](https://github.com/globaleaks): GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform
 * [Ura Design](https://github.com/uradotdesign): Digital studio which focuses on visual communication solutions tailored for Open Source and Internet Freedom projects
 
 ### Past positions
