@@ -4,10 +4,10 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anxhelolushka)
 
 ### 🔭 I’m currently working at:
-* [GlobaLeaks](https://github.com/globaleaks): GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform
 * [Ura Design](https://github.com/uradotdesign): Digital studio which focuses on visual communication solutions tailored for Open Source and Internet Freedom projects
 
 ### Past positions
+* [GlobaLeaks](https://github.com/globaleaks): GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform
 * [Magoware](https://www.magoware.tv): A Software Company specialized in Video Content Management & Distribution Solutions through internet (IPTV/OTT) for different ecosystem actors & Paid TV operators
 * [Tahoe-LAFS](https://github.com/tahoe-lafs/): Tahoe-LAFS is a Free and Open decentralized cloud storage system which distributes your data across multiple servers
 
