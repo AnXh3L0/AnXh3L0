@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Anxhelo%20Lushka&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Product%20Engineer%20·%20DevOps%20·%20UX/UI&descSize=18&descAlignY=55" />
+# 👋 Anxhelo Lushka
+
+### Product Engineer · DevOps · UX/UI
 
 <br>
 
@@ -14,7 +16,7 @@
   <img src="https://img.shields.io/badge/📧_hello@lushka.al-f093fb?style=for-the-badge" alt="Email" />
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/📍_Tirana,_Albania-10b981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/💼_Open_to_work-3b82f6?style=flat-square" alt="Open to work" />
@@ -22,15 +24,8 @@
 
 <br><br>
 
-```typescript
-const anxhelo = {
-  role: "CTO @ American Labs",
-  focus: ["Product Engineering", "DevOps", "UX/UI Design"],
-  location: "Tirana, Albania 🇦🇱",
-  mission: "Building fast, accessible web products and privacy-focused infrastructure",
-  community: "Helping open-source teams turn complex systems into clear experiences"
-};
-```
+**Building fast, accessible web products and privacy-focused infrastructure**  
+Helping open-source teams turn complex systems into clear experiences
 
 <br>
 
@@ -71,50 +66,16 @@ const anxhelo = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 📍 [Autobuzat Tiranë](https://bus.ueb.al)
-Real-time Tirana public bus tracker with GPS integration
+Real-time Tirana public bus tracker with GPS integration and live route mapping
 
-**Stack:** Next.js · React · GTFS  
+**Stack:** Next.js · React · GTFS · Real-time GPS  
 **Status:** ✅ Open source & live
 
 [![Visit](https://img.shields.io/badge/Visit-bus.ueb.al-667eea?style=for-the-badge)](https://bus.ueb.al)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [Open Source Design](https://opensourcedesign.net)
-Global community connecting designers with OSS projects
-
-**Stack:** Hugo · Tailwind CSS  
-**Role:** Member & maintainer
-
-[![Visit](https://img.shields.io/badge/Visit-opensourcedesign.net-764ba2?style=for-the-badge)](https://opensourcedesign.net)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏨 [Seaside Hotel Vlorë](https://seasidehotelvlore.com)
-Modern hotel booking platform with gallery
-
-**Stack:** Next.js · React  
-**Status:** ✅ Production
-
-[![Visit](https://img.shields.io/badge/Visit-seasidehotelvlore.com-f093fb?style=for-the-badge)](https://seasidehotelvlore.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [Detektivi.al](https://detektivi.al)
-Detective services platform
-
-**Stack:** Next.js · Tailwind CSS  
-**Status:** 🚧 In development
-
-[![Visit](https://img.shields.io/badge/Visit-detektivi.al-4facfe?style=for-the-badge)](https://detektivi.al)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AnXh3L0)
 
 </td>
 </tr>
@@ -187,13 +148,10 @@ Former core member of **Open Labs Hackerspace** (2016–2023)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnXh3L0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=f093fb&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnXh3L0&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9" alt="GitHub Streak" height="180" />
+![](https://github-readme-stats.vercel.app/api?username=AnXh3L0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnXh3L0&theme=tokyonight&hide_border=true)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnXh3L0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=AnXh3L0&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="48%" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnXh3L0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -234,8 +192,10 @@ Former core member of **Open Labs Hackerspace** (2016–2023)
 **📅 Schedule:** [cal.com](https://cal.com)  
 **🌐 Portfolio:** [lushka.al](https://lushka.al)
 
-</div>
-
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+---
+
+<sub>Building for the open web from Tirana, Albania 🇦🇱</sub>
+
+</div>
