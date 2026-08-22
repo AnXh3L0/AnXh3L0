@@ -1,24 +1,38 @@
 <div align="center">
 
-# 👋 Anxhelo Lushka
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Anxhelo%20Lushka&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Product%20Engineer%20·%20DevOps%20·%20UX/UI&descSize=18&descAlignY=55" />
 
-### Product Engineer · DevOps · UX/UI
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Tirana,_Albania-10b981?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open_to_work-3b82f6?style=flat&logo=briefcase&logoColor=white" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=AnXh3L0&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
-</p>
+<a href="https://lushka.al">
+  <img src="https://img.shields.io/badge/🌐_lushka.al-667eea?style=for-the-badge&logoColor=white" alt="Website" />
+</a>
+<a href="https://ueb.al">
+  <img src="https://img.shields.io/badge/💼_ueb.al-764ba2?style=for-the-badge&logoColor=white" alt="ueb.al" />
+</a>
+<a href="mailto:hello@lushka.al">
+  <img src="https://img.shields.io/badge/📧_hello@lushka.al-f093fb?style=for-the-badge" alt="Email" />
+</a>
 
-**Building fast, accessible web products and privacy-focused infrastructure**  
-Helping open-source teams turn complex systems into clear experiences
+<br>
 
-<p>
-  <a href="https://lushka.al"><img src="https://img.shields.io/badge/🌐_lushka.al-000000?style=for-the-badge" alt="Website" /></a>
-  <a href="mailto:hello@lushka.al"><img src="https://img.shields.io/badge/📧_hello@lushka.al-000000?style=for-the-badge" alt="Email" /></a>
-  <a href="https://linkedin.com/in/anxhelolushka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/anxhelolushka"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+<img src="https://img.shields.io/badge/📍_Tirana,_Albania-10b981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/💼_Open_to_work-3b82f6?style=flat-square" alt="Open to work" />
+<img src="https://komarev.com/ghpvc/?username=AnXh3L0&label=Profile%20views&color=667eea&style=flat-square" alt="Profile views" />
+
+<br><br>
+
+```typescript
+const anxhelo = {
+  role: "CTO @ American Labs",
+  focus: ["Product Engineering", "DevOps", "UX/UI Design"],
+  location: "Tirana, Albania 🇦🇱",
+  mission: "Building fast, accessible web products and privacy-focused infrastructure",
+  community: "Helping open-source teams turn complex systems into clear experiences"
+};
+```
+
+<br>
 
 </div>
 
@@ -55,45 +69,56 @@ Helping open-source teams turn complex systems into clear experiences
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><strong>📍 Autobuzat Tiranë</strong> — Real-time Tirana public bus tracker</summary>
-<br>
-<ul>
-<li><strong>Stack:</strong> Next.js, React, GTFS, real-time GPS integration</li>
-<li><strong>Link:</strong> <a href="https://bus.ueb.al">bus.ueb.al</a></li>
-<li><strong>Status:</strong> ✅ Open source & live</li>
-</ul>
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><strong>🎨 Open Source Design</strong> — Global OSS design community</summary>
-<br>
-<ul>
-<li><strong>Stack:</strong> Hugo, Tailwind CSS</li>
-<li><strong>Link:</strong> <a href="https://opensourcedesign.net">opensourcedesign.net</a></li>
-<li><strong>Role:</strong> Community member & maintainer</li>
-</ul>
-</details>
+### 📍 [Autobuzat Tiranë](https://bus.ueb.al)
+Real-time Tirana public bus tracker with GPS integration
 
-<details>
-<summary><strong>🏨 Seaside Hotel Vlorë</strong> — Hotel booking & gallery</summary>
-<br>
-<ul>
-<li><strong>Stack:</strong> Next.js, React, modern web standards</li>
-<li><strong>Link:</strong> <a href="https://seasidehotelvlore.com">seasidehotelvlore.com</a></li>
-<li><strong>Status:</strong> ✅ Production</li>
-</ul>
-</details>
+**Stack:** Next.js · React · GTFS  
+**Status:** ✅ Open source & live
 
-<details>
-<summary><strong>🔍 Detektivi.al</strong> — Detective services platform</summary>
-<br>
-<ul>
-<li><strong>Stack:</strong> Next.js, Tailwind CSS</li>
-<li><strong>Link:</strong> <a href="https://detektivi.al">detektivi.al</a></li>
-<li><strong>Status:</strong> 🚧 In development</li>
-</ul>
-</details>
+[![Visit](https://img.shields.io/badge/Visit-bus.ueb.al-667eea?style=for-the-badge)](https://bus.ueb.al)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Open Source Design](https://opensourcedesign.net)
+Global community connecting designers with OSS projects
+
+**Stack:** Hugo · Tailwind CSS  
+**Role:** Member & maintainer
+
+[![Visit](https://img.shields.io/badge/Visit-opensourcedesign.net-764ba2?style=for-the-badge)](https://opensourcedesign.net)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 [Seaside Hotel Vlorë](https://seasidehotelvlore.com)
+Modern hotel booking platform with gallery
+
+**Stack:** Next.js · React  
+**Status:** ✅ Production
+
+[![Visit](https://img.shields.io/badge/Visit-seasidehotelvlore.com-f093fb?style=for-the-badge)](https://seasidehotelvlore.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Detektivi.al](https://detektivi.al)
+Detective services platform
+
+**Stack:** Next.js · Tailwind CSS  
+**Status:** 🚧 In development
+
+[![Visit](https://img.shields.io/badge/Visit-detektivi.al-4facfe?style=for-the-badge)](https://detektivi.al)
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -162,10 +187,13 @@ Former core member of **Open Labs Hackerspace** (2016–2023)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnXh3L0&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&text_color=374151&icon_color=10b981&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnXh3L0&theme=default&hide_border=true&ring=3b82f6&fire=10b981&currStreakLabel=6b7280" alt="GitHub Streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnXh3L0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=f093fb&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnXh3L0&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9" alt="GitHub Streak" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnXh3L0&layout=compact&theme=default&hide_border=true&title_color=3b82f6&text_color=374151&langs_count=8" alt="Top Languages" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnXh3L0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AnXh3L0&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="48%" />
 
 </div>
 
@@ -181,23 +209,33 @@ Former core member of **Open Labs Hackerspace** (2016–2023)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnXh3L0)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AnXh3L0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anxhelolushka)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anxhelolushka)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/355699932340)
-[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#p/+355699932340)
+<a href="https://github.com/AnXh3L0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="https://gitlab.com/AnXh3L0">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</a>
+<a href="https://linkedin.com/in/anxhelolushka">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://t.me/anxhelolushka">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://wa.me/355699932340">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://signal.me/#p/+355699932340">
+  <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
+</a>
+
+<br><br>
 
 **📧 Email:** hello@lushka.al  
 **📅 Schedule:** [cal.com](https://cal.com)  
-**🌐 Website:** [lushka.al](https://lushka.al)
+**🌐 Portfolio:** [lushka.al](https://lushka.al)
 
 </div>
 
----
+<br>
 
-<div align="center">
-
-*Building for the open web from Tirana, Albania* 🇦🇱
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
