@@ -1,158 +1,203 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3F4F6,100:E5E7EB&height=140&section=header&text=Anxhelo%20Lushka&fontSize=38&fontColor=111827&font=Inter&animation=fadeIn" alt="Anxhelo Lushka" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=6B7280&center=true&vCenter=true&width=540&lines=Product+engineer+%C2%B7+DevOps+%C2%B7+UX%2FUI;CTO+%40+American+Labs;Building+for+the+open+web" alt="Subtitle" />
+# 👋 Anxhelo Lushka
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tirana,_Albania-111827?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open_to_work-111827?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=AnXh3L0&label=views&color=9CA3AF&logo=eye&style=flat-square" alt="Profile views" />
+### Product Engineer · DevOps · UX/UI
+
+<p>
+  <img src="https://img.shields.io/badge/Tirana,_Albania-10b981?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to_work-3b82f6?style=flat&logo=briefcase&logoColor=white" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=AnXh3L0&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  I build fast, accessible web products, ship privacy-focused infrastructure,<br />
-  and help open-source teams turn complex systems into clear experiences.
+**Building fast, accessible web products and privacy-focused infrastructure**  
+Helping open-source teams turn complex systems into clear experiences
+
+<p>
+  <a href="https://lushka.al"><img src="https://img.shields.io/badge/🌐_lushka.al-000000?style=for-the-badge" alt="Website" /></a>
+  <a href="mailto:hello@lushka.al"><img src="https://img.shields.io/badge/📧_hello@lushka.al-000000?style=for-the-badge" alt="Email" /></a>
+  <a href="https://linkedin.com/in/anxhelolushka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/anxhelolushka"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<p align="center">
-  <a href="https://lushka.al"><img src="https://img.shields.io/badge/lushka.al-111827?style=for-the-badge&logo=safari&logoColor=white" alt="lushka.al" /></a>
-  <a href="https://ueb.al"><img src="https://img.shields.io/badge/ueb.al-374151?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ueb.al" /></a>
-  <a href="mailto:hello@lushka.al"><img src="https://img.shields.io/badge/hello@lushka.al-4B5563?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+</div>
 
-<br />
+---
 
-## Work
+## 💼 Current Work
 
-### Now
+<table>
+<tr>
+  <td width="140"><strong>American Labs</strong></td>
+  <td width="120"><em>CTO</em></td>
+  <td>Product & AI engineering</td>
+  <td width="100"><a href="https://american.al">↗ Site</a></td>
+</tr>
+<tr>
+  <td><strong>ueb.al</strong></td>
+  <td><em>Founder</em></td>
+  <td>Web design, development & platforms</td>
+  <td><a href="https://ueb.al">↗ Site</a></td>
+</tr>
+<tr>
+  <td><strong>Ura Design</strong></td>
+  <td><em>UX/UI Developer</em></td>
+  <td>Design systems, frontend & sysadmin</td>
+  <td><a href="https://ura.design">↗ Site</a></td>
+</tr>
+<tr>
+  <td><strong>Open Source Design</strong></td>
+  <td><em>Member</em></td>
+  <td>Connecting designers with OSS projects</td>
+  <td><a href="https://opensourcedesign.net">↗ Site</a></td>
+</tr>
+</table>
 
-| Organization | Role | Focus |
-| :-- | :-- | :-- |
-| [American Labs](https://american.al) | CTO | Product & AI engineering |
-| [ueb.al](https://ueb.al) | Founder | Web design, development & platforms |
-| [Ura Design](https://ura.design) | UX/UI Developer | Design systems, frontend & sysadmin |
-| [Open Source Design](https://opensourcedesign.net) | Member | Connecting designers with OSS projects |
+## 🚀 Featured Projects
 
-### Before
+<details open>
+<summary><strong>📍 Autobuzat Tiranë</strong> — Real-time Tirana public bus tracker</summary>
+<br>
+<ul>
+<li><strong>Stack:</strong> Next.js, React, GTFS, real-time GPS integration</li>
+<li><strong>Link:</strong> <a href="https://bus.ueb.al">bus.ueb.al</a></li>
+<li><strong>Status:</strong> ✅ Open source & live</li>
+</ul>
+</details>
 
-| Organization | Role | Focus |
-| :-- | :-- | :-- |
-| [GlobaLeaks](https://github.com/globaleaks) | DevOps Engineer | Secure whistleblowing infrastructure |
-| Rubik Technologies | DevOps Engineer | Infrastructure & automation |
-| [Magoware](https://www.magoware.tv) | DevOps Engineer | IPTV/OTT & video distribution |
-| [Tahoe-LAFS](https://github.com/tahoe-lafs) | Web Developer | Decentralized cloud storage |
-| [Open Labs Hackerspace](https://openlabs.cc) | Core Member | Open source & digital rights, 2016–2023 |
+<details>
+<summary><strong>🎨 Open Source Design</strong> — Global OSS design community</summary>
+<br>
+<ul>
+<li><strong>Stack:</strong> Hugo, Tailwind CSS</li>
+<li><strong>Link:</strong> <a href="https://opensourcedesign.net">opensourcedesign.net</a></li>
+<li><strong>Role:</strong> Community member & maintainer</li>
+</ul>
+</details>
 
-<br />
+<details>
+<summary><strong>🏨 Seaside Hotel Vlorë</strong> — Hotel booking & gallery</summary>
+<br>
+<ul>
+<li><strong>Stack:</strong> Next.js, React, modern web standards</li>
+<li><strong>Link:</strong> <a href="https://seasidehotelvlore.com">seasidehotelvlore.com</a></li>
+<li><strong>Status:</strong> ✅ Production</li>
+</ul>
+</details>
 
-## Sites
+<details>
+<summary><strong>🔍 Detektivi.al</strong> — Detective services platform</summary>
+<br>
+<ul>
+<li><strong>Stack:</strong> Next.js, Tailwind CSS</li>
+<li><strong>Link:</strong> <a href="https://detektivi.al">detektivi.al</a></li>
+<li><strong>Status:</strong> 🚧 In development</li>
+</ul>
+</details>
 
-| Domain | Type | Description |
-| :-- | :-- | :-- |
-| [lushka.al](https://lushka.al) | Personal | Writing, work history & side projects |
-| [ueb.al](https://ueb.al) | Agency | Sites, apps, platforms, SEO & hosting |
-| [american.al](https://american.al) | Company | American Labs product studio |
-| [bus.ueb.al](https://bus.ueb.al) | Product | Real-time Tirana public bus tracker |
-| [anxhelo.al](https://anxhelo.al) | Redirect | Short link → lushka.al |
-| [angelo.al](https://angelo.al) | Redirect | Short link → ueb.al |
+## 🛠️ Tech Stack
 
-<br />
+<div align="center">
 
-## Selected projects
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-| Project | Link | Stack | Notes |
-| :-- | :-- | :-- | :-- |
-| Autobuzat Tiranë | [bus.ueb.al](https://bus.ueb.al) | Next.js · React · GTFS | Open source, real-time GPS map |
-| Open Source Design | [opensourcedesign.net](https://opensourcedesign.net) | Hugo · Tailwind | Global OSS design community |
-| Seaside Hotel Vlorë | [seasidehotelvlore.com](https://seasidehotelvlore.com) | Next.js · React | Hotel booking & gallery site |
-| Detektivi.al | [detektivi.al](https://detektivi.al) | Next.js · Tailwind | Currently in development |
+</div>
 
-<br />
+<table>
+<tr>
+  <td width="140"><strong>Frontend</strong></td>
+  <td>React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, TanStack Query, Zustand</td>
+</tr>
+<tr>
+  <td><strong>Backend</strong></td>
+  <td>Node.js, REST APIs, Prisma, PostgreSQL, MySQL</td>
+</tr>
+<tr>
+  <td><strong>Infrastructure</strong></td>
+  <td>Docker, Nginx, Linux, CI/CD, Cloudflare Workers, monitoring & backups</td>
+</tr>
+<tr>
+  <td><strong>Content & SEO</strong></td>
+  <td>Hugo, Astro, Core Web Vitals, WCAG accessibility</td>
+</tr>
+<tr>
+  <td><strong>Design</strong></td>
+  <td>Figma, design systems, UI audits, visual identity</td>
+</tr>
+</table>
 
-## Stack
+## 🌍 Open Source
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,astro,docker,nginx,postgres,mysql,cloudflare,prisma,linux,git,github,figma,vscode,bash,python&perline=12" alt="Tech stack" />
-</p>
+<div align="center">
 
-| Area | Tools |
-| :-- | :-- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, TanStack Query, Zustand |
-| **Backend** | Node.js, REST APIs, Prisma, PostgreSQL, MySQL |
-| **Infra** | Docker, Nginx, Linux, CI/CD, Cloudflare Workers, monitoring & backups |
-| **Content** | Hugo, Astro, SEO, Core Web Vitals, accessibility (WCAG) |
-| **Design** | Figma, design systems, UI audits, visual identity |
+**Active Communities**
 
-<br />
+[![Fedora](https://img.shields.io/badge/Fedora_Ambassador-51A2DA?style=flat&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
+[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/)
 
-## Open source
+**Contributions**
 
-| Community | Involvement |
-| :-- | :-- |
-| Fedora | Ambassador |
-| The Document Foundation | Ex-member |
-| LibreOffice · OpenStreetMap · OSCAL | Contributor & organizer |
-| Open Labs Hackerspace | Core member, 2016–2023 |
+<a href="https://github.com/opensourcedesign"><img src="https://img.shields.io/badge/opensourcedesign-181717?style=flat&logo=github" /></a>
+<a href="https://github.com/globaleaks"><img src="https://img.shields.io/badge/globaleaks-181717?style=flat&logo=github" /></a>
+<a href="https://github.com/uradotdesign"><img src="https://img.shields.io/badge/uradotdesign-181717?style=flat&logo=github" /></a>
+<a href="https://github.com/AdAway"><img src="https://img.shields.io/badge/AdAway-181717?style=flat&logo=github" /></a>
+<a href="https://github.com/k9mail"><img src="https://img.shields.io/badge/k9mail-181717?style=flat&logo=github" /></a>
+<a href="https://github.com/AnySoftKeyboard"><img src="https://img.shields.io/badge/AnySoftKeyboard-181717?style=flat&logo=github" /></a>
 
-<p align="center">
-  <a href="https://github.com/uradotdesign"><img src="https://img.shields.io/badge/uradotdesign-111827?style=flat-square&logo=github&logoColor=white" alt="uradotdesign" /></a>
-  <a href="https://github.com/opensourcedesign"><img src="https://img.shields.io/badge/opensourcedesign-111827?style=flat-square&logo=github&logoColor=white" alt="opensourcedesign" /></a>
-  <a href="https://github.com/globaleaks"><img src="https://img.shields.io/badge/globaleaks-111827?style=flat-square&logo=github&logoColor=white" alt="globaleaks" /></a>
-  <a href="https://github.com/AdAway"><img src="https://img.shields.io/badge/AdAway-374151?style=flat-square&logo=github&logoColor=white" alt="AdAway" /></a>
-  <a href="https://github.com/Librefox"><img src="https://img.shields.io/badge/Librefox-374151?style=flat-square&logo=github&logoColor=white" alt="Librefox" /></a>
-  <a href="https://github.com/k9mail"><img src="https://img.shields.io/badge/k9mail-374151?style=flat-square&logo=github&logoColor=white" alt="k9mail" /></a>
-  <a href="https://github.com/AnySoftKeyboard"><img src="https://img.shields.io/badge/AnySoftKeyboard-4B5563?style=flat-square&logo=github&logoColor=white" alt="AnySoftKeyboard" /></a>
-</p>
+Former core member of **Open Labs Hackerspace** (2016–2023)
 
-<br />
+</div>
 
-## GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnXh3L0&show_icons=true&theme=graywhite&hide_border=true&title_color=111827&text_color=374151&icon_color=111827&rank_icon=percentile" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnXh3L0&theme=graywhite&hide_border=true&background=FFFFFF&ring=111827&fire=374151&currStreakLabel=6B7280" alt="GitHub streak" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnXh3L0&layout=compact&theme=graywhite&hide_border=true&title_color=111827&text_color=374151&langs_count=8" alt="Top languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnXh3L0&theme=minimal&hide_border=true&color=6B7280&line=9CA3AF&point=374151&bg_color=FFFFFF" alt="Activity graph" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AnXh3L0&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&text_color=374151&icon_color=10b981&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnXh3L0&theme=default&hide_border=true&ring=3b82f6&fire=10b981&currStreakLabel=6b7280" alt="GitHub Streak" height="170" />
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnXh3L0&layout=compact&theme=default&hide_border=true&title_color=3b82f6&text_color=374151&langs_count=8" alt="Top Languages" />
 
-## Languages
+</div>
 
-| Language | Level |
-| :-- | :-- |
-| Albanian | Native |
-| English | C2 — IELTS 8.5 |
-| Italian | Fluent |
-| Spanish | Fluent |
-| Portuguese | Fluent |
+## 🗣️ Languages
 
-<br />
+🇦🇱 **Albanian** — Native  
+🇬🇧 **English** — C2 (IELTS 8.5)  
+🇮🇹 **Italian** — Fluent  
+🇪🇸 **Spanish** — Fluent  
+🇵🇹 **Portuguese** — Fluent
 
-## Connect
+## 📬 Let's Connect
 
-| Channel | Link |
-| :-- | :-- |
-| GitHub | [github.com/AnXh3L0](https://github.com/AnXh3L0) |
-| GitLab | [gitlab.com/AnXh3L0](https://gitlab.com/AnXh3L0) |
-| LinkedIn | [linkedin.com/in/anxhelolushka](https://www.linkedin.com/in/anxhelolushka) |
-| Telegram | [@anxhelolushka](https://t.me/anxhelolushka) |
-| WhatsApp | [+355 69 993 2340](https://wa.me/+355699932340) |
-| Cal.com | [cal.com](https://cal.com) |
-| Signal | +355 69 993 2340 |
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/AnXh3L0"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://gitlab.com/AnXh3L0"><img src="https://img.shields.io/badge/GitLab-374151?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
-  <a href="https://www.linkedin.com/in/anxhelolushka"><img src="https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/anxhelolushka"><img src="https://img.shields.io/badge/Telegram-6B7280?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://wa.me/+355699932340"><img src="https://img.shields.io/badge/WhatsApp-9CA3AF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnXh3L0)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AnXh3L0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anxhelolushka)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anxhelolushka)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/355699932340)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#p/+355699932340)
 
-<br />
+**📧 Email:** hello@lushka.al  
+**📅 Schedule:** [cal.com](https://cal.com)  
+**🌐 Website:** [lushka.al](https://lushka.al)
 
-<p align="center">
-  <sub>Product engineer · DevOps · UX/UI — Tirana, Albania</sub>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+*Building for the open web from Tirana, Albania* 🇦🇱
+
+</div>
